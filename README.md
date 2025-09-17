@@ -20,4 +20,4 @@ docker compose up --build
 docker compose down
 ```
 
-Open your browser and navigate to http://localhost:8080. Follow the guide on Medium which has been linked in the description to this repo. Follow that steps that concerns connecting an LLM to Open WebUI and a tool to that LLM.
+Open your browser and navigate to http://localhost:8080. Follow the guide on [Medium](https://medium.com/@emiljohansson0211/easy-guide-on-how-to-make-an-ai-agent-with-fastapi-and-open-webui-3acef4c54354) which is also linked in the description to this repo. Follow that steps that concerns connecting an LLM to Open WebUI and a tool to that LLM.
